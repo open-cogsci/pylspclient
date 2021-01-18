@@ -23,7 +23,7 @@ class PyTest(TestCommand):
 
 setup(
     name="pylspclient",
-    version="0.0.3a1",
+    version="0.0.3a3",
     author="Avi Yeger",
     author_email="yeger00@gmail.com",
     description="LSP client implementation in Python",
